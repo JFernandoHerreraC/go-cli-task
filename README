@@ -1,0 +1,9 @@
+##Go CLI CRUD
+
+This is a simple CLI application using GO that stores data in a JSON file, and do some basic
+operations like create, read, and delete
+
+## Installation
+git clone https://github.com/JFernandoHerreraC/go-cli-task
+cd go-tasks
+go install
